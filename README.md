@@ -30,9 +30,9 @@ This is a simple and fun Number Guessing Game built using **HTML, CSS, and JavaS
 ---
 
 
-## 📷 Screenshot
+## 📷 Preview
 
-![Game Screenshot](Screenshot.png)
+![Game Screenshot](Guess.png)
 
  
 
